@@ -22,3 +22,12 @@ Exploratory Data Analysis (EDA): Identified patterns and trends using heatmaps, 
 Model Training & Evaluation: Trained multiple classification models and compared performance using classification metrics.
 
 Result Interpretation: Interpreted model predictions to understand key risk factors associated with insurance claims.
+
+✅ Outcomes
+Improved understanding of key factors influencing insurance claims.
+
+Built a robust prediction model with strong generalization capabilities.
+
+Created insights to help insurers make smarter underwriting decisions.
+
+
